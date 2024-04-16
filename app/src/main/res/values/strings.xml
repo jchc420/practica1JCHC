@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="title">Título</string>
+    <string name="genre">Género</string>
+    <string name="band">Artista</string>
+    <string name="add_element">Agregrar elemento</string>
+    <string name="no_registries">¡No hay registros!</string>
+    <string name="artist">Artista</string>
+    <string name="song">Canción</string>
+    <string name="save">Guardar\n</string>
+    <string name="cancel">Cancelar</string>
+    <string name="savedSong">Canción guardada exitosamente</string>
+    <string name="errorsavedSong">Error al guardar la canción</string>
+    <string name="update">Actualizar</string>
+    <string name="remove">Eliminar</string>
+    <string name="updatedSong">Canción actualizada exitosamente</string>
+    <string name="errorupdatedSong">Error al actualizar canción</string>
+    <string name="confirm">Confirmar</string>
+    <string name="askConfirm">Quieres borrar la canción \"%1$s\"?</string>
+    <string name="accept">Aceptar</string>
+    <string name="removedSong">Canción borrada exitosamente</string>
+    <string name="errorremovedSong">Error al eliminar la canción</string>
+    <string name="rock">Rock</string>
+
+    <string-array name="genre_list">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Rap</item>
+        <item>Salsa</item>
+    </string-array>
+</resources>
